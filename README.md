@@ -1,6 +1,6 @@
 # PramodToken
 
-Simple overview of use/purpose.
+PramodToken is an ERC20-compliant token designed for use on the Ethereum blockchain. It provides a basic framework for token creation, minting, burning, and transferring, with an administrative layer for additional control.
 
 ## Description
 
